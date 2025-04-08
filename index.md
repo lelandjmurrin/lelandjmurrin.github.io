@@ -6,12 +6,12 @@
 [![View Blog Post](https://img.shields.io/badge/NYCDSA-View_Blog_Post-blue)](https://nycdatascience.com/blog/student-works/capstone/acquisition-due-dilligence-automation-for-smaller-firms/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lelandjmurrin/Acquisition_Due_Dilligence_Capstone_Project.git)
 
-The creation of a methodology to automate the due diligence process for acquiring small or midsize target firms. This allows for more informed decision-making on these firms, similar to what would be performed for larger ones, but with far less overhead. I served as a lead on a project commissioned by an accounting firm to propose innovative data science automation methods such as PCA, KMeans, and ARIMA. 
+The creation of a methodology to automate the due diligence process for acquiring small or midsize target firms. This allows for more informed decision-making on these firms, similar to what would be performed for larger ones, but with far less overhead. I served as a lead on a project commissioned by an accounting firm to propose innovative data science automation methods. 
 
 <center><img src="images/Fig2 - Capstone.png"/></center>
 
 ---
-### Pandemic Effects on the Ames Housing Market and Lifestyle: RF, GradientBoosting, GeoPandas, API, and A/B Testing
+### Pandemic Effects on the Ames Housing Market and Lifestyle: RF, GradientBoosting, GeoPandas, REST API, and A/B Testing
 
 [![View Blog Post](https://img.shields.io/badge/NYCDSA-View_Blog_Post-blue)](https://nycdatascience.com/blog/student-works/machine-learning/pandemic-effects-on-the-ames-housing-market-and-lifestyle/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lelandjmurrin/Ames_Housing_Project)
