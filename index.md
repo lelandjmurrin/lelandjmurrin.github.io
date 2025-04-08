@@ -1,7 +1,7 @@
 # Portfolio
 ---
 ## NYC Data Science Academy
-### Acquisition Due Dilligence Automation for Smaller Firms
+### Acquisition Due Dilligence Automation for Smaller Firms: PCA, KMeans, and ARIMA
 
 [![View Blog Post](https://img.shields.io/badge/NYCDSA-View_Blog_Post-blue)](https://nycdatascience.com/blog/student-works/capstone/acquisition-due-dilligence-automation-for-smaller-firms/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lelandjmurrin/Acquisition_Due_Dilligence_Capstone_Project.git)
@@ -11,7 +11,7 @@ The creation of a methodology to automate the due diligence process for acquirin
 <center><img src="images/Fig2 - Capstone.png"/></center>
 
 ---
-### Pandemic Effects on the Ames Housing Market and Lifestyle
+### Pandemic Effects on the Ames Housing Market and Lifestyle: RF, GradientBoosting, GeoPandas, API, and A/B Testing
 
 [![View Blog Post](https://img.shields.io/badge/NYCDSA-View_Blog_Post-blue)](https://nycdatascience.com/blog/student-works/machine-learning/pandemic-effects-on-the-ames-housing-market-and-lifestyle/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lelandjmurrin/Ames_Housing_Project)
@@ -23,7 +23,7 @@ pandemic A/B testing in Python. I also created Python API wrapper functions to r
 
 
 ---
-### Forecasting NY State Tax Credits: R Shiny App for Businesses
+### Forecasting App for NY State Tax Credits: R Shiny, Lasso, and Ridge
 
 [![View Blog Post](https://img.shields.io/badge/NYCDSA-View_Blog_Post-blue)](https://nycdatascience.com/blog/student-works/r-shiny/forecasting-ny-state-tax-credits-r-shiny-app-for-businesses/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lelandjmurrin/NYS_tax_credit_Rshiny_project)
@@ -32,7 +32,7 @@ An interactive, dynamic R Shiny dashboard application to forecast NY State Corpo
 
 
 <center><img src="images/Fig4 - RShiny.jpg"/></center>
-
+ 
 ---
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
