@@ -27,6 +27,7 @@ pandemic A/B testing in Python. I also created Python API wrapper functions to r
 
 [![View Blog Post](https://img.shields.io/badge/NYCDSA-View_Blog_Post-blue)](https://nycdatascience.com/blog/student-works/r-shiny/forecasting-ny-state-tax-credits-r-shiny-app-for-businesses/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lelandjmurrin/NYS_tax_credit_Rshiny_project)
+[![Open App](https://img.shields.io/badge/R_Shiny-Open_App-blue?logo=r&logoColor=blue)](https://ljmurrin.shinyapps.io/NYS_Article_9A_Tax_Credit_Predictions_Analysis/)
 
 An interactive, dynamic R Shiny dashboard application to forecast NY State Corporate Tax Credits across multiple datasets. This provides tax consultants with an insightful tool to advise these corporations, helping them make the most appropriate current and future business decisions when considering ways to offset their tax liabilities. The data used to drive this application came from an annual New York State corporation tax returns study, which only included businesses with a yearly tax liability timeframe between January 1st and December 31st. I optimized predictive models using hyper-parametrization, cross-validation, and regularization.
 
