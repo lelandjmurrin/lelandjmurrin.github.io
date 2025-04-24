@@ -9,10 +9,9 @@
 The creation of a methodology to automate the due diligence process for acquiring small or midsize target firms. This allows for more informed decision-making on these firms, similar to what would be performed for larger ones, but with far less overhead. I served as a lead on a project commissioned by an accounting firm to propose innovative data science automation methods. 
 
 <center><img src="images/time_series_decomp.png"/></center>
-<div style = "font-size:12px; color:grey">Image Citation:  
 
 [Linkedin](https://www.linkedin.com/posts/mattdancho_when-learning-time-series-i-struggled-to-activity-7163923015670468612-SURj)
-</div>
+
 
 ---
 ### Pandemic Effects on the Ames Housing Market and Lifestyle: RF, GradientBoosting, GeoPandas, REST API, and A/B Testing
