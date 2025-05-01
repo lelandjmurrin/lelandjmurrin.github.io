@@ -32,14 +32,19 @@ pandemic A/B testing in Python. I also created Python API wrapper functions to r
 
 An interactive, dynamic R Shiny dashboard application to forecast NY State Corporate Tax Credits across multiple datasets. This provides tax consultants with an insightful tool to advise these corporations, helping them make the most appropriate current and future business decisions when considering ways to offset their tax liabilities. The data used to drive this application came from an annual New York State corporation tax returns study, which only included businesses with a yearly tax liability timeframe between January 1st and December 31st. I optimized predictive models using hyper-parametrization, cross-validation, and regularization.
 
-
 <center><img src="images/ElNet_Regression.webp"/></center>
 <div style = "font-size:12px; color:grey">Image Citation: Zou, H., & Hastie, T. (2005). Regularization and variable selection via the elastic net.</div>
 
+---
 ## Artificial Intelligence
 ### Credit Card Fraud Detection: PyTorch and GANs
+
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-blue?logo=jupyter)](projects/Fraud_Detection_GAN.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lelandjmurrin/Generative_AI_Fraud_Detection)
 
 Fraud detection is notoriously challenging due to the scarcity of positive (deceptive) examples. Generative Adversarial Networks (GANs) offer solutions to class bias by learning the distribution of minority class data and generating realistic synthetic examples, thus augmenting training and improving detection. This project explored the use of GANS to detect fraudulent credit card transactions (~1.6%) in an imbalanced dataset. The goal was to boost recall—our ability to correctly identify fraud cases—by synthetically generating deceptive samples and training a discriminator to distinguish them from valid transactions.
 
+<center><img src="images/GANs.jpg"/></center>
+<div style = "font-size:12px; color:grey">Image Citation: Lee et al.,
+Advanced R-GAN: Generating anomaly data for improved detection in imbalanced datasets using regularized generative adversarial networks,
+Alexandria Engineering Journal.</div>
